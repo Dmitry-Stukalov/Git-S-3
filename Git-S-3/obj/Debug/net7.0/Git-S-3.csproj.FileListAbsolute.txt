@@ -1,0 +1,14 @@
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\bin\Debug\net7.0\Git-S-3.exe
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\bin\Debug\net7.0\Git-S-3.deps.json
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\bin\Debug\net7.0\Git-S-3.runtimeconfig.json
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\bin\Debug\net7.0\Git-S-3.dll
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\bin\Debug\net7.0\Git-S-3.pdb
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\Git-S-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\Git-S-3.AssemblyInfoInputs.cache
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\Git-S-3.AssemblyInfo.cs
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\Git-S-3.csproj.CoreCompileInputs.cache
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\Git-S-3.dll
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\refint\Git-S-3.dll
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\Git-S-3.pdb
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\Git-S-3.genruntimeconfig.cache
+D:\Git_Hub\SDMS\Git-S-3\Git-S-3\obj\Debug\net7.0\ref\Git-S-3.dll
